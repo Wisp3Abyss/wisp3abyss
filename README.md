@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 - I have no clue what else to put here!
 
 ## Statistics:
-[![Statistics](https://github-readme-stats.vercel.app/api?username=wisp3abyss)](https://github.com/anuraghazra/github-readme-stats)
+![Wisp's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wisp3abyss&show_icons=true&theme=radical)
 
 ## Incredibox Repositories:
 - [Stranger Think](https://wisp3abyss.github.io/stranger-think)
