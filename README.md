@@ -49,7 +49,6 @@ Welcome to my GitHub profile!
   - Game is functional, but needs work
 - The Original (**WIP**)
 - [Piege](https://wisp3abyss.github.io/piege)
-  - Has absolutely been flayed alive because I was messing around with it. Highly suggested you do not play it.
 - [Blu](https://wisp3abyss.github.io/blu)
 - Project Omni (**WIP**)
 - Orin Ayo (**WIP**)
