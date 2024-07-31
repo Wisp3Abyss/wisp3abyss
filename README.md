@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 ## Statistics:
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wisp3abyss&show_icons=true&theme=dracula&title_color=b0f6ac&border_color=dcf1ca&text_color=eebb64&icon_color=bcd2d9" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisp3abyss&layout=compact&theme=dracula&title_color=b0f6ac&border_color=dcf1ca&text_color=eebb64&icon_color=bcd2d9" />&nbsp;&nbsp;
+    <img height=175 width=350 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisp3abyss&layout=compact&theme=dracula&title_color=b0f6ac&border_color=dcf1ca&text_color=eebb64&icon_color=bcd2d9" />&nbsp;&nbsp;
 </p>
 
 ## Incredibox Repositories:
