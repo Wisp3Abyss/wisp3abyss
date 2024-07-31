@@ -20,7 +20,10 @@ Welcome to my GitHub profile!
 - Feel free to check out my [YouTube](https://www.youtube.com/@Wisp3Abyss). I mostly make Incredibox mixes there.
 - I have no clue what else to put here!
 
-### Incredibox Repositories:
+## Statistics:
+[![Statistics](https://github-readme-stats.vercel.app/api?username=wisp3abyss)](https://github.com/anuraghazra/github-readme-stats)
+
+## Incredibox Repositories:
 - [Stranger Think](https://wisp3abyss.github.io/stranger-think)
 - [Dreamland](https://wisp3abyss.github.io/dreamland) 
 - [Dreamland (Demo)](https://wisp3abyss.github.io/dreamland-demo)
