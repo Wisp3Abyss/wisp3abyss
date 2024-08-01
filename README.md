@@ -46,6 +46,7 @@ Welcome to my GitHub profile!
 - [Deep Blue](http://wisp3abyss.github.io/deep-blue)
   - Game is functional, but needs work
 - [The Original](https://wisp3abyss.github.io/the-original)
+- [Otherside](https://wisp3abyss.github.io/otherside/)
 - [Shpongle](https://wisp3abyss.github.io/shpongle)
 - [Hookrz](https://wisp3abyss.github.io/hookrz)
 - [Vibin'](https://wisp3abyss.github.io/dripbox)
