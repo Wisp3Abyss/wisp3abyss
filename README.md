@@ -50,6 +50,7 @@ Welcome to my GitHub profile!
 - The Original (**WIP**)
 - [Piege](https://wisp3abyss.github.io/piege)
 - [Blu](https://wisp3abyss.github.io/blu)
+    - Game is functional, but needs work
 - Project Omni (**WIP**)
 - Orin Ayo (**WIP**)
 - The Beats of Incredimen (**WIP**)
