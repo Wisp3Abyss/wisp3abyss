@@ -57,3 +57,5 @@ Welcome to my GitHub profile!
 - Pixel Town (**WIP**)
 - Galerji (**WIP**)
 - [Voltage](https://wisp3abyss.github.io/voltage)
+- [Huntbox](https://wisp3abyss.github.io/huntbox)
+    - Game is functional, but needs work
