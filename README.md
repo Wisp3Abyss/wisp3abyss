@@ -40,8 +40,8 @@ Welcome to my GitHub profile!
 - [Perform](https://wisp3abyss.github.io/perform)
   - Game is functional, but needs work
 - [Wolfgang](https://wisp3abyss.github.io/wolfgang)
+- [Sepbox](https://wisp3abyss.github.io/sepbox)
 - [Steel Factory](https://wisp3abyss.github.io/steel-factory)
-- The Depths (**WIP**)
 - [Recursed](https://wisp3abyss.github.io/recursed)
 - [Singularity](https://wisp3abyss.github.io/singularity)
 - Beatnik (**WIP**)
