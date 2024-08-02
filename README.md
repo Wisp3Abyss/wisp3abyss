@@ -27,6 +27,7 @@ Welcome to my GitHub profile!
 </p>
 
 ## Incredibox Repositories:
+###*(*Pending*) means that the site is working, but is awaiting some minor changes.
 - [Stranger Think](https://wisp3abyss.github.io/stranger-think)
 - [Dreamland](https://wisp3abyss.github.io/dreamland) 
 - [Dead Inside](https://wisp3abyss.github.io/dead-inside) (*Pending*)
@@ -47,7 +48,7 @@ Welcome to my GitHub profile!
 - [The Last Day](https://wisp3abyss.github.io/the-last-day)
 - [Veda](https://wisp3abyss.github.io/veda)
 - [Geek Dance](https://wisp3abyss.github.io/geek-dance)
-- [The Original](https://wisp3abyss.github.io/the-original)
+- [The Original](https://wisp3abyss.github.io/the-original) (*Pending*)
 - [Travis](https://wisp3abyss.github.io/travis)
 - [Otherside](https://wisp3abyss.github.io/otherside/)
 - [Tribal](https://wisp3abyss.github.io/tribal)
@@ -63,11 +64,11 @@ Welcome to my GitHub profile!
 - [The Masks](https://wisp3abyss.github.io/the-masks)
 - [Piege](https://wisp3abyss.github.io/piege)
 - [Blu](https://wisp3abyss.github.io/blu)
-- [Underbox](https://wisp3abyss.github.io/underbox)
-- [Time](https://wisp3abyss.github.io/time)
+- [Underbox](https://wisp3abyss.github.io/underbox) (*Pending*)
+- [Time](https://wisp3abyss.github.io/time) (*Pending*)
 - [Project Omni](https://wisp3abyss.github.io/project-omni)
 - [Orin Ayo](https://wisp3abyss.github.io/orin-ayo)
-- [Monochrome](https://wisp3abyss.github.io/monochrome)
+- [Monochrome](https://wisp3abyss.github.io/monochrome) (*Pending*)
 - [Yubin Niiku](https://wisp3abyss.github.io/yubin-niiku)
 - The Beats of Incredimen (**WIP**)
 - [Pixel Town](https://wisp3abyss.github.io/pixel-town)
