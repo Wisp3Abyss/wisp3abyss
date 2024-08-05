@@ -63,6 +63,7 @@ Welcome to my GitHub profile!
 - [Wheelsbox](https://wisp3abyss.github.io/wheelsbox)
 - [The Masks](https://wisp3abyss.github.io/the-masks)
 - [Piege](https://wisp3abyss.github.io/piege)
+- [Soulgem](https://wisp3abyss.github.io/soulgem)
 - [Blu](https://wisp3abyss.github.io/blu)
 - [Underbox](https://wisp3abyss.github.io/underbox) (*Pending*)
 - [Time](https://wisp3abyss.github.io/time) (*Pending*)
