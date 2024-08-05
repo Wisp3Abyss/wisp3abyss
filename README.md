@@ -62,6 +62,7 @@ Welcome to my GitHub profile!
 - [Azoic](https://wisp3abyss.github.io/azoic)
 - [Wheelsbox](https://wisp3abyss.github.io/wheelsbox)
 - [The Masks](https://wisp3abyss.github.io/the-masks)
+- [The Pit](https://wisp3abyss.github.io/the-pit)
 - [Piege](https://wisp3abyss.github.io/piege)
 - [Soulgem](https://wisp3abyss.github.io/soulgem)
 - [Blu](https://wisp3abyss.github.io/blu)
