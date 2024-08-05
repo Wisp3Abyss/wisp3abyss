@@ -77,5 +77,6 @@ Welcome to my GitHub profile!
 - [Downtown](https://wisp3abyss.github.io/downtown)
 - [Galerji](https://wisp3abyss.github.io/galerji)
 - [Voltage](https://wisp3abyss.github.io/voltage)
+- [Ignis](https://wisp3abyss.github.io/ignis)
 - [Huntbox](https://wisp3abyss.github.io/huntbox) (Pending)
 - Casbox (**WIP**)
