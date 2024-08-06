@@ -78,5 +78,6 @@ Welcome to my GitHub profile!
 - [Galerji](https://wisp3abyss.github.io/galerji)
 - [Voltage](https://wisp3abyss.github.io/voltage)
 - [Ignis](https://wisp3abyss.github.io/ignis)
+- [Azurite](https://wisp3abyss.github.io/azurite)
 - [Huntbox](https://wisp3abyss.github.io/huntbox) (Pending)
 - [Casbox](https://wisp3abyss.github.io/casbox)
