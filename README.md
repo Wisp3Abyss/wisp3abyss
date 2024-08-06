@@ -75,7 +75,7 @@ Welcome to my GitHub profile!
 - [The Beats of Incredimen](https://wisp3abyss.github.io/incredimen)
 - [Pixel Town](https://wisp3abyss.github.io/pixel-town)
 - [Downtown](https://wisp3abyss.github.io/downtown)
-- [Galerji](https://wisp3abyss.github.io/galerji)
+- [Galerij](https://wisp3abyss.github.io/galerij)
 - [Voltage](https://wisp3abyss.github.io/voltage)
 - [Ignis](https://wisp3abyss.github.io/ignis)
 - [Azurite](https://wisp3abyss.github.io/azurite)
