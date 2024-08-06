@@ -79,4 +79,4 @@ Welcome to my GitHub profile!
 - [Voltage](https://wisp3abyss.github.io/voltage)
 - [Ignis](https://wisp3abyss.github.io/ignis)
 - [Huntbox](https://wisp3abyss.github.io/huntbox) (Pending)
-- Casbox (**WIP**)
+- [Casbox](https://wisp3abyss.github.io/casbox)
