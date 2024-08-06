@@ -67,7 +67,7 @@ Welcome to my GitHub profile!
 - [Soulgem](https://wisp3abyss.github.io/soulgem)
 - [Blu](https://wisp3abyss.github.io/blu)
 - [Underbox](https://wisp3abyss.github.io/underbox) (*Pending*)
-- [Time](https://wisp3abyss.github.io/time) (*Pending*)
+- [Time](https://wisp3abyss.github.io/time)
 - [Skylines](https://wisp3abyss.github.io/skylines)
 - [Project Omni](https://wisp3abyss.github.io/project-omni)
 - [Orin Ayo](https://wisp3abyss.github.io/orin-ayo)
