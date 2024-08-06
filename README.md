@@ -72,7 +72,7 @@ Welcome to my GitHub profile!
 - [Orin Ayo](https://wisp3abyss.github.io/orin-ayo)
 - [Monochrome](https://wisp3abyss.github.io/monochrome) (*Pending*)
 - [Yubin Niiku](https://wisp3abyss.github.io/yubin-niiku)
-- The Beats of Incredimen (**WIP**)
+- [The Beats of Incredimen](https://wisp3abyss.github.io/incredimen)
 - [Pixel Town](https://wisp3abyss.github.io/pixel-town)
 - [Downtown](https://wisp3abyss.github.io/downtown)
 - [Galerji](https://wisp3abyss.github.io/galerji)
