@@ -57,7 +57,7 @@ Welcome to my GitHub profile!
 - [Arbox](https://wisp3abyss.github.io/arbox) (*Pending*)
 - [Shpongle](https://wisp3abyss.github.io/shpongle)
 - [Hookrz](https://wisp3abyss.github.io/hookrz)
-- [Vibin'](https://wisp3abyss.github.io/dripbox)
+- [Vibin'](https://wisp3abyss.github.io/vibin)
 - [The Crime](https://wisp3abyss.github.io/the-crime)
 - [Azoic](https://wisp3abyss.github.io/azoic)
 - [Wheelsbox](https://wisp3abyss.github.io/wheelsbox)
