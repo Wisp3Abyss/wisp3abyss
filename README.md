@@ -28,6 +28,7 @@ Welcome to my GitHub profile!
 
 ## Incredibox Repositories:
 **Note:** "*(Pending)*" means that the site is working, but is awaiting some minor visual changes.
+
 ### Mainline
 - [Incredibox](https://wisp3abyss.github.io/incredibox)
 - [Noteboxers](https://wisp3abyss.github.io/noteboxers)
@@ -98,7 +99,6 @@ Welcome to my GitHub profile!
 - [Set Fire](https://wisp3abyss.github.io/set-fire)
 - [Stargold](https://wisp3abyss.github.io/stargold)
 - [Robsity](https://wisp3abyss.github.io/robsity)
-- 
 
 ### Chinese
 - [Stranger Think](https://wisp3abyss.github.io/stranger-think)
