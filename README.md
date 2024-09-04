@@ -39,6 +39,7 @@ Welcome to my GitHub profile!
 - [Sepbox](https://wisp3abyss.github.io/sepbox)
 - [Steel Factory](https://wisp3abyss.github.io/steel-factory)
 - [Coldbox](https://wisp3abyss.github.io/coldbox)
+- [Coldbox (Remake)](https://wisp3abyss.github.io/coldbox-remake)
 - [Singularity](https://wisp3abyss.github.io/singularity)
 - [Beatnik](https://wisp3abyss.github.io/beatnik)
 - [Deep Blue](http://wisp3abyss.github.io/deep-blue)
