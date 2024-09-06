@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub profile!
 
-- If you can't tell, I make GitHub's for Incredibox mods so you can play them online!
+- If you can't tell, I make GitHubs for Incredibox mods so you can play them online!
 - Feel free to check out my [YouTube](https://www.youtube.com/@Wisp3Abyss). I mostly make Incredibox mixes there.
 - I have no clue what else to put here!
 
@@ -111,8 +111,11 @@ Welcome to my GitHub profile!
 - [Sky](https://wisp3abyss.github.io/sky)
 - [Neon](https://wisp3abyss.github.io/neon)
 - [Fragmented Void](https://wisp3abyss.github.io/fragmented-void)
+- [Good and Evil](https://wisp3abyss.github.io/good-and-evil)
+- [Core](https://wisp3abyss.github.io/core)
 - [Undead](https://wisp3abyss.github.io/undead)
 - [Ice Crystal](https://wisp3abyss.github.io/ice-crystal) (*Pending*)
+- [Aftermath](https://wisp3abyss.github.io/aftermath)
 - [Wolfgang (Chinese)](https://wisp3abyss.github.io/wolfgang-chinese)
 - [Recursed (Chinese)](https://wisp3abyss.github.io/recursed-chinese)
   
